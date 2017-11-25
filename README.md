@@ -4,65 +4,66 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|岡田　友輔 (Okada Tomosuke)|
+|Github|[PKPK-Carnage](https://github.com/PKPK-Carnage)|
+|Qiita|[PKPK-Carnage](https://qiita.com/PKPK-Carnage)|
 
 ## スキル
 
 ### 言語
 
 - プログラミング言語
-
+  - Objective-C
+  - Swift
+  - Android Java
+  
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
 
-### フレームワーク
+- 英語
+	- リファレンスを読める
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+### 過去の制作物
 
-### その他
+####[OTGanttChartKit](https://github.com/PKPK-Carnage/OTGanttChartKit)
+- 開発言語:Objective-C
+- 対象プラットフォーム:iOS
+- iOS上でガントチャートを簡単に表示させるフレームワーク
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+####[OTResizableView](https://github.com/PKPK-Carnage/OTResizableView)
+- 開発言語:Swift
+- 対象プラットフォーム:iOS
+- 指でリサイズ・移動が可能なUIViewを作成するライブラリ
+
+####[OTSortButton](https://github.com/PKPK-Carnage/OTSortButton)
+- 開発言語:Swift
+- 対象プラットフォーム:iOS
+- ソートに特化したUIButtonライブラリ
+
 
 ## 強み
+- 難しい問題にも様々な観点や方法で取り組む力
+- 新しい手法を積極に取り込む姿勢
 
 ## やったことはないが興味があるもの
+- KotlinでのAndroid開発
+- スマートスピーカーアプリ開発
 
-## 登壇歴
-
-## 受賞歴
-
-## 執筆歴
-
-### 商業
-
-### 同人
 
 ## 職務経歴
 
-### yyyy/mm - : 会社名
+### 2016/04 - : 株式会社ディ・アイ・システム
 
-職務: Webアプリケーションエンジニア（例）
+職務: モバイルアプリケーションエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### 2016/06-09 大学研究向けAndroidタブレット/AndroidWear連携アプリの新規開発
+- 開発言語:Android Java
+- AndroidWearのセンサーデータ取得
+- Androidタブレット側でセンサーデータの解析・CSVファイル書き出し
 
-- 職務内容の詳細を箇条書きでかく
+#### 2016/10- 某企業向けiOSアプリの新規開発・既存アプリの改修
+- 開発言語:Objective-C、Swift
+- iPhone/iPad両方の開発
+- 新規開発・改修含め10本以上のアプリを担当
 
-#### 職務内容の名前（レストラン検索とか）
 
-- 職務内容の詳細を箇条書きでかく
-
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
-
-職務: サーバーサイドエンジニア
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
