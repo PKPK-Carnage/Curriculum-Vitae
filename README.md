@@ -25,17 +25,17 @@
 
 ### 過去の制作物
 
-####[OTGanttChartKit](https://github.com/PKPK-Carnage/OTGanttChartKit)
+#### [OTGanttChartKit](https://github.com/PKPK-Carnage/OTGanttChartKit)
 - 開発言語:Objective-C
 - 対象プラットフォーム:iOS
 - iOS上でガントチャートを簡単に表示させるフレームワーク
 
-####[OTResizableView](https://github.com/PKPK-Carnage/OTResizableView)
+#### [OTResizableView](https://github.com/PKPK-Carnage/OTResizableView)
 - 開発言語:Swift
 - 対象プラットフォーム:iOS
 - 指でリサイズ・移動が可能なUIViewを作成するライブラリ
 
-####[OTSortButton](https://github.com/PKPK-Carnage/OTSortButton)
+#### [OTSortButton](https://github.com/PKPK-Carnage/OTSortButton)
 - 開発言語:Swift
 - 対象プラットフォーム:iOS
 - ソートに特化したUIButtonライブラリ
